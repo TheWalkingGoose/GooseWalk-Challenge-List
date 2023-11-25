@@ -1,1 +1,17 @@
-
+{
+    "id": 96652431,
+    "name": "D2AL",
+    "author": "DeadVoxelx",
+    "creators": ["DeadVoxelx"],
+    "verifier": "DeadVoxelx",
+    "verification": "https://youtu.be/o5d1-7fJXSY",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Oversplit",
+            "link": "https://www.youtube.com/watch?v=BfVer5BbIik",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
