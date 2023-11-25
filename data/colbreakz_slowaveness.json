@@ -1,1 +1,17 @@
-
+{
+    "id": 86903061,
+    "name": "colbreakz slowaveness",
+    "author": "Dpoopoop",
+    "creators": ["Dpoopoop"],
+    "verifier": "Oversplit",
+    "verification": "https://www.youtube.com/watch?v=ZwVFDqIebBM",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "name": Gradas
+            "link": "https://www.youtube.com/watch?v=djDmu-wL9wE"
+            "percent": 100
+            "hz": "360"
+        }
+    ]
+}
