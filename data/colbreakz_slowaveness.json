@@ -8,9 +8,9 @@
     "percentToQualify": 100,
     "records": [
         {
-            "name": "Gradas"
-            "link": "https://www.youtube.com/watch?v=djDmu-wL9wE"
-            "percent": 100
+            "name": "Gradas",
+            "link": "https://www.youtube.com/watch?v=djDmu-wL9wE",
+            "percent": 100,
             "hz": "360"
         }
     ]
