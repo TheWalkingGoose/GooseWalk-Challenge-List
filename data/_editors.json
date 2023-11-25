@@ -5,8 +5,13 @@
         "link": "https://www.youtube.com/@therealwalkinggoose"
     },
     {
-        "role": "Admin",
+        "role": "admin",
         "name": "Oversplit",
         "link": "https://www.youtube.com/@sinoquewastaken"
-    }
+    },
+    {
+        "role": "helper",
+        "name": "Gradas",
+        "link": "https://www.youtube.com/@sinoquewastaken"
+    },
 ]
