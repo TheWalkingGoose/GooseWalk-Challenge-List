@@ -1,10 +1,10 @@
 {
     "id": 87890539,
-    "name": "Name",
-    "author": "Uploader",
-    "creators": [],
-    "verifier": "Verifier",
-    "verification": "Link",
+    "name": "Trowoll",
+    "author": "DeadVoxelx",
+    "creators": ["DeadVoxelx"],
+    "verifier": "DeadVoxelx",
+    "verification": "https://youtu.be/mB2jkQ7URqY",
     "percentToQualify": 100,
     "records": []
 }
