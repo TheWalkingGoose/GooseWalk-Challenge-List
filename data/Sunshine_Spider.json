@@ -1,1 +1,10 @@
-
+{
+    "id": 1,
+    "name": "Sunshine Spider",
+    "author": "AerialShard",
+    "creators": ["AerialShard"],
+    "verifier": "AerialShard",
+    "verification": "https://youtu.be/SVtBuluf5pk?si=O9pEuG4iB2ZOLUhJ",
+    "percentToQualify": 100,
+    "records": []
+}
