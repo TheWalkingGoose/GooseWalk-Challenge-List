@@ -6,5 +6,12 @@
     "verifier": "DeadVoxelx",
     "verification": "https://youtu.be/PbO2Pcbmx1Y",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+             "user": "Oversplit",
+            "link": "https://youtu.be/I2PGWkIpmYg",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
 }
