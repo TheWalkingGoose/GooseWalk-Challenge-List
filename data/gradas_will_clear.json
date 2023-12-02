@@ -1,1 +1,17 @@
-
+{
+    "id": 96977863,
+    "name": "Gradas Will Clear",
+    "author": "Gradass",
+    "creators": ["Gradass"],
+    "verifier": "Gradas",
+    "verification": "https://www.youtube.com/watch?v=UJkPOF2K7Sg",
+    "percentToQualify": 100,
+    "records": [
+         {
+             "user": "Oversplit",
+            "link": "https://youtu.be/BC02LyAV-_k",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
