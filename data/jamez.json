@@ -6,5 +6,12 @@
     "verifier": "AerialShard",
     "verification": "https://youtu.be/d2uAVsRsG0w",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+             "user": "Gradas",
+            "link": "https://www.youtube.com/watch?v=m847YMWs0xc",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
 }
