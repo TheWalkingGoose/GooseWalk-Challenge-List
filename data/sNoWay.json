@@ -6,5 +6,12 @@
     "verifier": "DeadVoxelx",
     "verification": "https://youtu.be/IcUGn2CFuSw",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+             "user": "Gradas",
+            "link": "https://www.youtube.com/watch?v=m847YMWs0xc",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
 }
