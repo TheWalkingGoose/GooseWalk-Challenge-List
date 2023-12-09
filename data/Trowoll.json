@@ -6,5 +6,12 @@
     "verifier": "DeadVoxelx",
     "verification": "https://youtu.be/mB2jkQ7URqY",
     "percentToQualify": 100,
-    "records": []
+    "records": [    
+        {
+             "user": "AerialShard",
+            "link": "https://www.youtube.com/watch?v=DgKMJmmAotw",
+            "percent": 100,
+            "hz": "60"
+        }
+    ]
 }
