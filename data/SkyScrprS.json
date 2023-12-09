@@ -6,5 +6,12 @@
     "verifier": "TheWalkingGoose",
     "verification": "https://youtu.be/YMZEp-q6Fk4",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+             "user": "AerialShard",
+            "link": "https://docs.google.com/document/d/1RrC4QXAgNBQtXB3KkgY5PCdCM1uJdu9lwuY3atkt080/edit",
+            "percent": 100,
+            "hz": "60"
+        }
+    ]
 }
