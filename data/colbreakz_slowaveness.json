@@ -12,6 +12,12 @@
             "link": "https://www.youtube.com/watch?v=djDmu-wL9wE",
             "percent": 100,
             "hz": "360"
+        },
+        {
+             "user": "AerialShard",
+            "link": "https://www.youtube.com/watch?v=DgKMJmmAotw",
+            "percent": 100,
+            "hz": "60"
         }
     ]
 }
